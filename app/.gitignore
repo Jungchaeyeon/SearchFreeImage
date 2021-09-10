@@ -1,0 +1,8 @@
+/build
+/src/main/res/values/themes.xml
+/build.gradle
+../gradlew.bat
+../settings.gradle
+../gradlew
+../gradlew.bat
+../gradle.properties
