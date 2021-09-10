@@ -14,6 +14,6 @@
 6.사진 저장하기<br/>
 7.사진 배경화면으로 설정하기<br/>
 
-<img src="https://user-images.githubusercontent.com/63052973/132799395-757898e7-3407-4a45-94e5-d615c862bc91.png"  width="300" height="400">
+<img src="https://user-images.githubusercontent.com/63052973/132799395-757898e7-3407-4a45-94e5-d615c862bc91.png"  width="300" height="500">
 
 
