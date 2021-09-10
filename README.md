@@ -3,7 +3,7 @@
 
 ## 📢 gradle.properties 에 UNSPLASH_ACCESS_KEY 자기 것 추가해야합니다.
 
-from-fastcampus 윤승용님 강의
+### from-fastcampus 윤승용님 강의
 ---------------------------------------------------------------------------------------------------------
 
 1.인트로, 프로젝트 셋업<br/>
@@ -14,6 +14,6 @@ from-fastcampus 윤승용님 강의
 6.사진 저장하기<br/>
 7.사진 배경화면으로 설정하기<br/>
 
-<img src="https://user-images.githubusercontent.com/63052973/132799395-757898e7-3407-4a45-94e5-d615c862bc91.png"  width="700" height="370">
+<img src="https://user-images.githubusercontent.com/63052973/132799395-757898e7-3407-4a45-94e5-d615c862bc91.png"  width="200" height="300">
 
 
