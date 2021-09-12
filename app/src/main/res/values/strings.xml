@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CH22_SearchFreeImage</string>
+    <string name="error_message_refresh_plz">문제가 생겼어요!\n아래로 당겨새로고침해주세요.</string>
 </resources>
