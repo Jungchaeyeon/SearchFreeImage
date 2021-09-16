@@ -1,9 +1,8 @@
 # SearchFreeImage
 저작권없는 무료 이미지 검색 앱. 
 
-## 📢 gradle.properties 에 UNSPLASH_ACCESS_KEY 자기 것 추가해야합니다.
+## 📢 gradle.properties 에 UNSPLASH_ACCESS_KEY 자기 것 추가해야함.
 
----------------------------------------------------------------------------------------------------------
 
 1.인트로, 프로젝트 셋업<br/>
 2.Unsplash API 사용 신청 하기<br/>
